@@ -1,0 +1,5 @@
+Amazon dynamodb:
+  - 1. Fully managed NoSQL Database service
+  - 2. Provides both key,value and document database
+  - 3. Enables extremely low latency at virtually any scale
+  - 4. Supports automatic scaling based on configuration
