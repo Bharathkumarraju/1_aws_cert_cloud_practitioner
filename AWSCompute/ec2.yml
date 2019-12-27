@@ -1,0 +1,31 @@
+AMI:
+
+InstanceTypes:
+
+  - instancestore:
+  - EBS:
+
+Launched into VPC:
+
+SG and Keypairs:
+
+Processor, memory, storagetypes:
+
+Types:
+  - 1. General purpose
+  - 2. Compute,memory and storage optimized instances
+  - 3. Accelerated computing ML
+
+Scaling:
+  VerticalScaling: increase memory and processing and storage
+  HorizontalScaling: Add additional instances
+     AutoScalingGroup: minimum,maximum and desired -- performs healthchecks on each instance..exists in 1 or more AZs of a region
+       -  Launch configuration:
+    - Elastic Load balancer:
+
+EC2 Purchase options:
+  - 1. On Demand Instances
+  - 2. Reserved instances
+  - 3. Sopt instances - you can leverage ununsed EC2 capacity in a region for a large discount.
+
+

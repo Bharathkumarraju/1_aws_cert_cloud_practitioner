@@ -1,0 +1,7 @@
+Amazon ECS:
+  - Container orchestration
+AWS Fargate:
+  - Enables containerized applications without managing servers.
+Amazon ECS for kubernetes(EKS):
+  - manages kubernets applications in AWS
+
