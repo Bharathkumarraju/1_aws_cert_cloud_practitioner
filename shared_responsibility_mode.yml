@@ -1,0 +1,9 @@
+aws_responsibility:
+  - 1. Hardware for global infra
+  - 2. patching the cloud infra..on hypervisor level
+  - 3. config management for infra
+
+customer_responsibility:
+  - 1. Data Security & Encryption ( both in the tansit and rest)
+  - 2. Operating system, network and firewall config
+  - 3. Patching guest OS and custom applications
