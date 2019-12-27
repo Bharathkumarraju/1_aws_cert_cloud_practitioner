@@ -1,0 +1,18 @@
+Well Architected Framework:
+  - 1. Operational Excellence
+  - 2. Secutiry
+  - 3. Reliability
+  - 4. Performance Efficiency
+  - 5. Cost Optimization
+
+Fault Tolerance:
+  - Being able to support the failure of components within the architecture
+
+High Availabilty:
+  - Keeping entrire solution running in the expected manner despite issues that may occur
+
+AWS Disaster Recovery Approches:
+  Backup & Restore:
+  Pilot Light: Minimal resources are setup in AWS to support a DR event
+  Warm Standby: Systems are running in AWS and can be scaledup for DR
+  Multi-Site: Systems are running in two regions and support users
