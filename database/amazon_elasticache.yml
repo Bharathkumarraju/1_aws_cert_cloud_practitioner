@@ -3,3 +3,6 @@ Amazon elasticache:
   - 2. Supports both memcached and redis
   - 3. Provides low latency in response times
   - 4. Enables scaling and replicas to meet application demand
+  - 5. Handles:
+      - 1. Database layer caching
+      - 2. Session storage
