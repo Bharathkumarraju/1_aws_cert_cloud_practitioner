@@ -1,0 +1,10 @@
+---
+Policy:
+   - A Json Document, that defines permissions for an AWS IAM identity(prinicipal)
+
+Defines:
+  - both
+     - the aws services that the identity can access  and
+     - what actions can be taken on that service
+
+- can be either customer managed or managed by AWS

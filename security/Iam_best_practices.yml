@@ -1,0 +1,7 @@
+- Multi factor authentication
+- Least Privilege Access
+
+Security in VPC:
+  - 1. Security Groups
+  - 2. Network ACL's - controls inbound & outbound traffic for subnets within the VPC
+  - 3. VPC FLow logs - Captures the information around traffic within your VPC
