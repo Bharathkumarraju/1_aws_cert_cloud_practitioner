@@ -1,0 +1,11 @@
+stores fiels in buckets:
+
+Different storage classes for different use cases:
+
+by default Stores data across multiple availabilityzones:
+
+Enable URL access for files:
+
+Can provide transfer acceleration for uploads using AWS edge locations:
+
+Offers configurable rules for data lifecycle:
