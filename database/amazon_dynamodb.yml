@@ -3,3 +3,6 @@ Amazon dynamodb:
   - 2. Provides both key,value and document database
   - 3. Enables extremely low latency at virtually any scale
   - 4. Supports automatic scaling based on configuration
+  - 5. offers in-memory cache with the dynamodb accelerator(DAX)
+
+"DyamoDB can handle more than 10 trillion requests per day and can support peaks of more than 20 million requests per second"
