@@ -1,1 +1,11 @@
 Enables the running of code without provisioning any infrastructure
+
+- only charged for usage based on the execution time
+
+- Can configure the available memory for lambda from 128MB to 3008MB
+
+- Lambda integrates with many other aws services seamlessly
+
+- Enables the event-driven workflows
+
+- Primary service for the serverless architecture

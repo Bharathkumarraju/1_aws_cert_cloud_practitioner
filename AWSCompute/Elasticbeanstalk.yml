@@ -1,0 +1,13 @@
+Automates the process of deploying and scaling workloads on EC2
+
+Supports a specific set of technologies
+
+Elastic Beanstalk spins up ec2 instances and the autoscaling groups etc...
+
+ElasticBeanstalk is free .. you only pay for the services it spins up
+
+ELasticbeanstalk handles
+  - provisioning
+  - load balancing
+  - scaling
+  - monitoring
