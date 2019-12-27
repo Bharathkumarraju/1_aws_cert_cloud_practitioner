@@ -1,0 +1,7 @@
+Amazon_redshift:
+  - 1. This is scalable data warehouse service
+  - 2. It supports peta bytes of data within your data warehouse
+  - 3. Leverages high performance disks and columnar storage
+  - 4. offers the ability to fully encrypt contents
+  - 5. Provides isolation with VPC
+  - 6. Enables the querying of exabytes of data in amanzon s3 usinh redshift spectrum

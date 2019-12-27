@@ -1,0 +1,5 @@
+Amazon elasticache:
+  - 1. Fully managed in-memory data stores
+  - 2. Supports both memcached and redis
+  - 3. Provides low latency in response times
+  - 4. Enables scaling and replicas to meet application demand
