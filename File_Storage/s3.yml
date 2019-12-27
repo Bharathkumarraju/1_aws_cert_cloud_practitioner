@@ -10,8 +10,12 @@ Can provide transfer acceleration for uploads using AWS edge locations:
 
 Offers configurable rules for data lifecycle:
 
-S3 Storage classes:
+S3 Non-Archival Storage classes:
   - 1.S3 Standard: for frequently accessed data , it is the default storage class
   - 2.S3 Intelligent-Tiering: will move your data to the correct storage class based on usage
   - 3.S3 Standard-IA: is for infrequently accessed data with the standard resilience
   - 4.S3 One Zone-IA: is for infrequently accessed data that is stored only in one AZ
+
+S3 Archival Storage classes:
+  - 1. Amazon S3 glacier: configurable retrieval times
+       - Can send files directly or through lifecycle rules in S3
