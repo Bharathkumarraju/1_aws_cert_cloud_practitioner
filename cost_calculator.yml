@@ -1,0 +1,12 @@
+AWS Cost Explorer:
+  - 1. Provides breakdowns By service
+  - 2. Provides breakdown By Tag
+  - 3. Provides predictions for the next 3 months of costs
+  - 4. Gives recommendations for cost optimization
+  - 5. Can be accessed via API
+
+AWS Organizations:
+  - 1. Allows organizations to manage multiple accounts under a single master account
+  - 2. Provides organizations with the ability to leverage consolidated billing for all accounts
+  - 3. Enables organizations to centralize logging and security standards across accounts
+
