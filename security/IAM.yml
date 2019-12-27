@@ -1,0 +1,3 @@
+IAM:
+  - Service that controls access to AWS resources
+  - Manages both authentication and the authorization

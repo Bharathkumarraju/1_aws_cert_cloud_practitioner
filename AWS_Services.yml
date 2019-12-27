@@ -1,0 +1,25 @@
+Amazon Route 53:
+  - 1. DNS
+  - 2. Gloabal AWS Service
+  - 3. Highly Available
+  - 4. Enables global resource routing
+
+Amazon VPC:
+  - 1. Enables virtual networks in AWS
+  - 2. Public and private subnets
+  - 3. Can utilize NAT for private subnets
+  - 4. Enables connections to your data center
+  - 5. Can connect to other VPC's
+  - 6. Supports private conections to many AWS services
+
+AWS Direct Connect:
+  - A cloud service solution that makes it easy to establish a dedicated network conncection from on-premise to AWS.
+
+Amazon CloudFront:
+  - CDN
+  - supports both static and dynamic
+  - AWS Shield for DDoS(Distributes Denial of Service)
+  - AWS WAF(Web Application Firewall)
+
+ELB:
+  - one or more AZs and one region
