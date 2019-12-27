@@ -1,0 +1,15 @@
+Amazon EFS:
+  Elastic File System(NFS) for use with Linux-based workloads
+
+Fully managed service:
+
+Designed for Linux:
+
+Support upto petabyte scale:
+
+Two different classes:
+  1. Standard
+  2. Infrequent Access
+
+Provides configurable lifecycle data rules:
+

@@ -1,0 +1,12 @@
+Amazon EBS:
+  - Persistent block storage to use with amazon EC2
+
+  - 1. Enables redundancy within an AZ
+  - 2. Take snapshots
+  - 3. Offers encryption of its volumes - by defualt encryption is not enabled ...but you can enable per EBS volume
+
+Provides multiple volume types:
+  - 1. General Purpose SSD
+  - 2. Provisioned IOPS SSD - High performance for low latency applications
+  - 3. Throughput optimized HDD  - for frequently accessed data
+  - 4. cold HDD - designed for less frequently accessed data

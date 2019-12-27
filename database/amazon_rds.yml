@@ -1,0 +1,5 @@
+amazon_rds:
+  - 1. Fully managed service for relational databases
+  - 2. Handles provisioning, patching, backup, and recovery of your database
+  - 3. supports deployments across multiple availabiltyzones
+  -
