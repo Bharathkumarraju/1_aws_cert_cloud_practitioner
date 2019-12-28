@@ -1,3 +1,8 @@
 AWS_SQS:
-  - 1. Managed message queue service
-  -
+  - 1. Fully Managed message queue service
+  - 2. Enables us to build decoupled and fault tolerant applications
+  - 3. Supports up to 256 KB data payload
+  - 4. Allows messages to store up to 14 days
+  - 5. Provides two type of queues
+       - 1. Standard Queue
+       - 2. FIFO Queue
