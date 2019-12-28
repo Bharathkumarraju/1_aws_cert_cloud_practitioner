@@ -1,3 +1,8 @@
 AWS_SNS:
   - 1. Managed Pub/Sub messaging service
-  -
+  - 2. Enables to create decoupled applications
+  - 3. Information is organized in Topics
+  - 4. When you publish message you publish to specific topics
+  - 5. And when you subscribe you can subscribe from a specific topic.
+  - 6. Integrates with multiple AWS Services
+  - 7. Also provides a end-user notifications across SMS, E-mail, and push notifications
