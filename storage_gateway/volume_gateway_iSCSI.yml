@@ -1,0 +1,7 @@
+includes stored volumes and cached volumes:
+  Voulme Gateways can be accessed using the protocols like iSCSI:
+
+Stored_volumes:
+  data stored at customer site and backup the data and sent later to AWS cloud:
+Cached_volumes:
+  data actually stored in AWS and the data cahed in the customer site:

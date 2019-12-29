@@ -1,0 +1,2 @@
+Stores the customers data in S3:
+  you can use protocols like NFS to access the data:
