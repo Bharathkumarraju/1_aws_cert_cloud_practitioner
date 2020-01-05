@@ -1,0 +1,1 @@
+sudo mount -t efs fs-519498d0:/ bharaths_efs
