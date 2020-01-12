@@ -1,0 +1,18 @@
+Operational/Transactional:
+    Relational DB:
+      - RDS
+      - Postgres
+      - mysql
+    NON-Relational DB:
+      - Dynamo DB
+      - MOngo DB
+      - Cassandra
+Analytical:
+  Relational DB:
+    - Amazon Redshift
+    - Terradata
+    - HP vertica
+  NON-Relational DB:
+    - Amazon ELasticMapReduce(EMR)
+    - MapReduce
+
